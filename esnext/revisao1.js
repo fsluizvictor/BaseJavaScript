@@ -19,6 +19,6 @@ const [x, , y] = [1,2,3]
 console.log(x,y)
 
 const {idade,nome} = { nome: 'ana', idade: 9}
-console.log(i,nome)
+console.log(idade,nome)
 
 
